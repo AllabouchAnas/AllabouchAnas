@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Allabouch Anass
 
-Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a keen interest in building innovative web applications and exploring new technologies.
+I'm Allabouch Anass, a passionate Full Stack JavaScript Developer with a keen interest in building innovative web, desktop, and mobile applications. I thrive on exploring new technologies and pushing the boundaries of what's possible in software development.
 
 ## 👀 I’m interested in ...
 - Frontend Development
